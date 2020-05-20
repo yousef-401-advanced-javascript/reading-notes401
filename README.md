@@ -13,7 +13,7 @@ this is for all readings for **couse 401**: <br />
 | Read02 | [Read02](https://yousef-401-advanced-javascript.github.io/reading-notes401/read02) |
 | Read03 | [Read03](https://yousef-401-advanced-javascript.github.io/reading-notes401/read03) |
 | Read04 | [Read04](https://yousef-401-advanced-javascript.github.io/reading-notes401/read04) |
-| Read05 | [Read05](https://yousef-401-advanced-javascript.github.io/reading-notes401/read05) |
+| Read05 | [Read05](https://yousef-401-advanced-javascript.github.io/reading-notes401/read05Linkedlist) |
 | Read06 | [Read06](https://yousef-401-advanced-javascript.github.io/reading-notes401/read06) |
 | Read07 | [Read07](https://yousef-401-advanced-javascript.github.io/reading-notes401/read07) |
 | Read08 | [Read08](https://yousef-401-advanced-javascript.github.io/reading-notes401/read08) |
