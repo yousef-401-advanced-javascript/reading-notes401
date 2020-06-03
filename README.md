@@ -18,7 +18,7 @@ this is for all readings for **couse 401**: <br />
 | Read07 | [Read07](https://yousef-401-advanced-javascript.github.io/reading-notes401/read07) |
 | Read08 | [Read08](https://yousef-401-advanced-javascript.github.io/reading-notes401/read08) |
 | Read09 | [Read09](https://yousef-401-advanced-javascript.github.io/reading-notes401/read09) |
-| Read10 | [Read10](https://yousef-401-advanced-javascript.github.io/reading-notes401/read10) |
+| stack&queues | [stack&queues](https://yousef-401-advanced-javascript.github.io/reading-notes401/stack&queues) |
 | Read11 | [Read11](https://yousef-401-advanced-javascript.github.io/reading-notes401/read11) |
 | Read12 | [Read12](https://yousef-401-advanced-javascript.github.io/reading-notes401/read12) |
 | Read13 | [Read13](https://yousef-401-advanced-javascript.github.io/reading-notes401/read13) |
