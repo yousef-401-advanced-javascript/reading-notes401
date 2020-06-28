@@ -36,25 +36,25 @@ this is for all readings for **course 401**: <br />
 |  ***#Read*** |      link      |
 |----------|:-------------:|
 | read21 | [read21](https://yousef-401-advanced-javascript.github.io/reading-notes401/read21)|
-| Read22 | [Read22](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read22) |
-| Read23 | [Read23](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read23) |
-| Read24 | [Read24](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read24) |
-| Read25 | [Read25](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read25) |
-| Read26 | [Read26](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read26) |
 | Read27 | [Read27](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read27) |
 | Read28 | [Read28](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read28) |
 | Read29 | [Read29](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read29) |
 | Read30 | [Read30](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read30) |
-| read31 | [Read31](https://yousef-401-advanced-javascript.github.io/reading-notes401/read31) |
-| Read32 | [Read32](https://yousef-401-advanced-javascript.github.io/reading-notes401/read32) |
-| Read33 | [Read33](https://yousef-401-advanced-javascript.github.io/reading-notes401/read33) |
-| Read34 | [Read34](https://yousef-401-advanced-javascript.github.io/reading-notes401/read34) |
-| Read35 | [Read35](https://yousef-401-advanced-javascript.github.io/reading-notes401/read35) |
-| read36 | [Read36](https://yousef-401-advanced-javascript.github.io/reading-notes401/tree36) |
+| Read31 | [Read31](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read31) |
+| Read32 | [Read32](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read32) |
+| Read33 | [Read33](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read33) |
+| Read34 | [Read34](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read34) |
+| Read35 | [Read35](https://yousef-401-advanced-javascript.github.io/reading-notes401/Read35) |
+| read36 | [Read36](https://yousef-401-advanced-javascript.github.io/reading-notes401/read36) |
 | Read37 | [Read37](https://yousef-401-advanced-javascript.github.io/reading-notes401/read37) |
 | Read38 | [Read38](https://yousef-401-advanced-javascript.github.io/reading-notes401/read38) |
 | Read39 | [Read39](https://yousef-401-advanced-javascript.github.io/reading-notes401/read39) |
 | Read40 | [Read40](https://yousef-401-advanced-javascript.github.io/reading-notes401/read40) |
-| Read41 | [Read41](https://yousef-401-advanced-javascript.github.io/reading-notes401/tree41) |
+| read41 | [Read41](https://yousef-401-advanced-javascript.github.io/reading-notes401/tree41) |
+| Read42 | [Read42](https://yousef-401-advanced-javascript.github.io/reading-notes401/read42) |
+| Read43 | [Read43](https://yousef-401-advanced-javascript.github.io/reading-notes401/read43) |
+| Read44 | [Read44](https://yousef-401-advanced-javascript.github.io/reading-notes401/read44) |
+| Read45 | [Read45](https://yousef-401-advanced-javascript.github.io/reading-notes401/read45) |
+| Read46 | [Read46](https://yousef-401-advanced-javascript.github.io/reading-notes401/tree46) |
 
 </td></tr> </table>
