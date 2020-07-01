@@ -39,7 +39,7 @@ this is for all readings for **course 401**: <br />
 | Read27 | [Read27](https://yousef-401-advanced-javascript.github.io/reading-notes401/read27) |
 | Read28 | [Read28](https://yousef-401-advanced-javascript.github.io/reading-notes401/read28) |
 | Read29 | [Read29](https://yousef-401-advanced-javascript.github.io/reading-notes401/read29) |
-| Read30 | [Read30](https://yousef-401-advanced-javascript.github.io/reading-notes401/read30) |
+| Read30 | [Read30](https://yousef-401-advanced-javascript.github.io/reading-notes401/read30HashTable) |
 | Read31 | [Read31](https://yousef-401-advanced-javascript.github.io/reading-notes401/read31) |
 | Read32 | [Read32](https://yousef-401-advanced-javascript.github.io/reading-notes401/read32) |
 | Read33 | [Read33](https://yousef-401-advanced-javascript.github.io/reading-notes401/read33) |
