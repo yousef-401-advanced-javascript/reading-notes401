@@ -44,7 +44,7 @@ this is for all readings for **course 401**: <br />
 | Read32 | [Read32](https://yousef-401-advanced-javascript.github.io/reading-notes401/read32) |
 | Read33 | [Read33](https://yousef-401-advanced-javascript.github.io/reading-notes401/read33) |
 | Read34 | [Read34](https://yousef-401-advanced-javascript.github.io/reading-notes401/read34) |
-| Read35 | [Read35](https://yousef-401-advanced-javascript.github.io/reading-notes401/read35) |
+| Read35 | [read35graphs](https://yousef-401-advanced-javascript.github.io/reading-notes401/read35graphs) |
 | read36 | [Read36](https://yousef-401-advanced-javascript.github.io/reading-notes401/read36) |
 | Read37 | [Read37](https://yousef-401-advanced-javascript.github.io/reading-notes401/read37) |
 | Read38 | [Read38](https://yousef-401-advanced-javascript.github.io/reading-notes401/read38) |
