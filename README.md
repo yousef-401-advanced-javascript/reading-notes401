@@ -49,7 +49,6 @@ this is for all readings for **course 401**: <br />
 | Read37 | [Read37](https://yousef-401-advanced-javascript.github.io/reading-notes401/read37) |
 | Read38 | [Read38](https://yousef-401-advanced-javascript.github.io/reading-notes401/read38) |
 | Read39 | [Read39](https://yousef-401-advanced-javascript.github.io/reading-notes401/read39) |
-| Read40 | [Read40](https://yousef-401-advanced-javascript.github.io/reading-notes401/read40) |
 | read41 | [Read41](https://yousef-401-advanced-javascript.github.io/reading-notes401/tree41) |
 | Read42 | [Read42](https://yousef-401-advanced-javascript.github.io/reading-notes401/read42) |
 | Read43 | [Read43](https://yousef-401-advanced-javascript.github.io/reading-notes401/read43) |
